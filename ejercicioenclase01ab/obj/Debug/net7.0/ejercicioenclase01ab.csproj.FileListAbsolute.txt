@@ -1,0 +1,15 @@
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/bin/Debug/net7.0/ejercicioenclase01ab
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/bin/Debug/net7.0/ejercicioenclase01ab.deps.json
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/bin/Debug/net7.0/ejercicioenclase01ab.runtimeconfig.json
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/bin/Debug/net7.0/ejercicioenclase01ab.dll
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/bin/Debug/net7.0/ejercicioenclase01ab.pdb
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/ejercicioenclase01ab.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/ejercicioenclase01ab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/ejercicioenclase01ab.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/ejercicioenclase01ab.AssemblyInfo.cs
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/ejercicioenclase01ab.csproj.CoreCompileInputs.cache
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/ejercicioenclase01ab.dll
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/refint/ejercicioenclase01ab.dll
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/ejercicioenclase01ab.pdb
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/ejercicioenclase01ab.genruntimeconfig.cache
+/Users/emanuelgarrido/Desktop/University/ejercicioenclase01ab/ejercicioenclase01ab/obj/Debug/net7.0/ref/ejercicioenclase01ab.dll
